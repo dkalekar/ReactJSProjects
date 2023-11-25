@@ -3,7 +3,6 @@ import { Button, Avatar, Typography, Menu } from "antd";
 import { Link } from "react-router-dom";
 import {
   HomeOutlined,
-  MoneyCollectOutlined,
   BulbOutlined,
   FundOutlined,
   MenuOutlined,
